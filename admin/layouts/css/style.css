@@ -1,0 +1,19 @@
+.group-input {
+	margin-bottom: 25px;
+}
+
+ .group-input label {
+	display: block;
+	font-size: 1rem;
+	color: #252525;
+        font-weight: 400;
+	margin-bottom: 13px;
+}
+
+ .group-input input{
+	border: 1px solid #ebebeb;
+	height: 50px;
+	width: 100%;
+	padding-left: 20px;
+	padding-right: 15px;
+}
